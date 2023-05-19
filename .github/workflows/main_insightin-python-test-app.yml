@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'insightin-python-test-app'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F52A664E6A8245178569A6056EE63AB8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_412AEAF3CBED49D6AA9119E55A9F57E9 }}
